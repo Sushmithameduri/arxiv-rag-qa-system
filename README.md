@@ -41,8 +41,7 @@ This demo shows the Streamlit UI in action for the ArXiv RAG QA system.
 
 - The demo highlights semantic retrieval, hallucination-safe generation, and evidence-bounded RAG behavior in a fully local, reproducible setup.
 
-🎥 Demo video: https://github.com/user-attachments/assets/7733dfa9-8b64-4ad4-88bc-20d3c39e772b
-
+🎥 Demo video: ![Adobe+Express+-+Arxvi+Rag+Demo+(1)](https://github.com/user-attachments/assets/192a2451-1047-4648-844b-983e933ea77d)
 
 ---
 
@@ -335,6 +334,7 @@ This project reflects real-world GenAI engineering practices:
 * Production-style API + UI
 
 * Dockerized for portability
+
 
 
 
