@@ -336,5 +336,13 @@ This project reflects real-world GenAI engineering practices:
 * Dockerized for portability
 
 
+## 🙏 Acknowledgments
+
+- [OpenRAGBench](https://huggingface.co/datasets/vectara/open_ragbench) – ArXiv RAG benchmark
+- [LangChain](https://langchain.com) – Orchestration
+- [ChromaDB](https://chroma.run) – Vector store
+- [Ollama](https://ollama.com) – Local inference
+
+**⭐ Star if useful!
 
 
